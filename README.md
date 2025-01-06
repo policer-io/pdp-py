@@ -65,7 +65,7 @@ TODO: check python version
 
 ### Install
 
-Use yarn command
+Use `pip` command
 
     pip install policer-io-pdp
 
